@@ -8,3 +8,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 - CSS custom properties
 - Flexbox
 - JavaScript
+
+
+[Link to my project] (http://127.0.0.1:5500/interactive-rating-component-main/index.html)
