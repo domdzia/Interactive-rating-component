@@ -17,9 +17,7 @@ num.addEventListener("click", (e) => {
 })
 
 function addRate(){
-if(!numOfRate){
-  return alert('Choose number from 1 to 5 :)');
-}
+if(!numOfRate) return;
 box1.style.display = "none";
 btnRate.style.display = "none";
 box2.style.display = "block"; 
