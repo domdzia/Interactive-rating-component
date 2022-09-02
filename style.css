@@ -119,7 +119,12 @@
     padding: 10px;
     color: hsl(25, 97%, 53%);
     background-color: #303a46;
-  }    
+  }   
+
+ .addText {
+    display: inline-block;
+    margin: 0 2px;
+}
 
   .thanks{
     margin-bottom: 40px;
